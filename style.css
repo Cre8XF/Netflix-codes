@@ -1,0 +1,46 @@
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: #111;
+  color: #fff;
+  display: flex;
+  height: 100vh;
+}
+aside {
+  width: 250px;
+  background: #1a1a1a;
+  padding: 1rem;
+  overflow-y: auto;
+}
+main {
+  flex: 1;
+  padding: 2rem;
+  overflow-y: auto;
+}
+h1, h2 {
+  margin-top: 0;
+}
+button.category-btn {
+  width: 100%;
+  background: #333;
+  color: #fff;
+  padding: 0.5rem;
+  border: none;
+  margin-bottom: 0.5rem;
+  text-align: left;
+  cursor: pointer;
+  font-weight: bold;
+  border-radius: 4px;
+}
+.sublist-item {
+  margin-bottom: 1rem;
+}
+.sublist-item a {
+  color: #4af;
+  text-decoration: none;
+}
+.sublist-item .no {
+  color: #aaa;
+  font-size: 0.9em;
+}

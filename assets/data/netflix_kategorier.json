@@ -1,0 +1,996 @@
+{
+  "Populære sjangere": [
+    {
+      "name": "Actioneventyr ",
+      "code": 1365
+    },
+    {
+      "name": "Anime ",
+      "code": 7424
+    },
+    {
+      "name": "Barne- og familiefilmer ",
+      "code": 783
+    },
+    {
+      "name": "Dokumentarer ",
+      "code": 6839
+    },
+    {
+      "name": "Dramaet ",
+      "code": 5763
+    },
+    {
+      "name": "LHBTQ-filmer ",
+      "code": 5977
+    },
+    {
+      "name": "Uavhengige filmer ",
+      "code": 7077
+    },
+    {
+      "name": "Internasjonale filmer ",
+      "code": 78367
+    },
+    {
+      "name": "Klassiske filmer ",
+      "code": 31574
+    },
+    {
+      "name": "Komedier ",
+      "code": 6548
+    },
+    {
+      "name": "Krigsfilmer ",
+      "code": 3373
+    },
+    {
+      "name": "Musikk ",
+      "code": 1701
+    },
+    {
+      "name": "Musikaler ",
+      "code": 13335
+    },
+    {
+      "name": "Mysteries ",
+      "code": 9994
+    },
+    {
+      "name": "Romantiske filmer ",
+      "code": 8883
+    },
+    {
+      "name": "Sci-fi og fantasy ",
+      "code": 1492
+    },
+    {
+      "name": "Skrekkfilmer ",
+      "code": 8711
+    },
+    {
+      "name": "Sportsfilmer ",
+      "code": 4370
+    },
+    {
+      "name": "Thriller ",
+      "code": 8933
+    },
+    {
+      "name": "Tenåringsserie ",
+      "code": 60951
+    },
+    {
+      "name": "TV-serier ",
+      "code": 83
+    },
+    {
+      "name": "Westerns ",
+      "code": 7700
+    }
+  ],
+  "Action og eventyr ": [
+    {
+      "name": "Action og eventyr ",
+      "code": 1365
+    },
+    {
+      "name": "Action-komedier ",
+      "code": 43040
+    },
+    {
+      "name": "Actionthrillere ",
+      "code": 43048
+    },
+    {
+      "name": "Asiatisk handling ",
+      "code": 77232
+    },
+    {
+      "name": "Internasjonale action- og eventyrfilmer ",
+      "code": 852490
+    },
+    {
+      "name": "Klassiske actioneventyr ",
+      "code": 46576
+    },
+    {
+      "name": "Krimfilmer ",
+      "code": 9584
+    },
+    {
+      "name": "Kampsport/kampsportfilmer ",
+      "code": 8985
+    },
+    {
+      "name": "Militær aksjon ",
+      "code": 2125
+    },
+    {
+      "name": "Tegneseriefilm og superhelter ",
+      "code": 10118
+    },
+    {
+      "name": "Spionfilmer ",
+      "code": 10702
+    },
+    {
+      "name": "Western ",
+      "code": 7700
+    },
+    {
+      "name": "Eventyrfilmer ",
+      "code": 7442
+    }
+  ],
+  "Anime ": [
+    {
+      "name": "Anime ",
+      "code": 7424
+    },
+    {
+      "name": "Animert for voksne ",
+      "code": 11881
+    },
+    {
+      "name": "Anime Action ",
+      "code": 2653
+    },
+    {
+      "name": "Anime-komedier ",
+      "code": 9302
+    },
+    {
+      "name": "Anime-drama ",
+      "code": 452
+    },
+    {
+      "name": "Anime-filmer ",
+      "code": 3063
+    },
+    {
+      "name": "Anime Sci-Fi ",
+      "code": 2729
+    },
+    {
+      "name": "Anime Horror ",
+      "code": 10695
+    },
+    {
+      "name": "Anime Fantasy ",
+      "code": 11146
+    },
+    {
+      "name": "Anime-serie ",
+      "code": 6721
+    }
+  ],
+  "Barne- og familiefilm ": [
+    {
+      "name": "Barne- og familiefilm ",
+      "code": 783
+    },
+    {
+      "name": "Filmer for alderen 0 til 2 år ",
+      "code": 100003
+    },
+    {
+      "name": "Filmer for alderen 3 til 4 år ",
+      "code": 100004
+    },
+    {
+      "name": "Filmer for alderen 5 til 7 år ",
+      "code": 100005
+    },
+    {
+      "name": "Filmer for alderen 8 til 10 år ",
+      "code": 100006
+    },
+    {
+      "name": "Filmer for alderen 11 til 12 år ",
+      "code": 100007
+    },
+    {
+      "name": "Dyrehistorier ",
+      "code": 5507
+    },
+    {
+      "name": "Barneprogrammer ",
+      "code": 27346
+    },
+    {
+      "name": "Basert på barnebøker ",
+      "code": 10056
+    },
+    {
+      "name": "Familiefilmer ",
+      "code": 51056
+    },
+    {
+      "name": "Musikk for barn ",
+      "code": 52843
+    },
+    {
+      "name": "Tegneserier ",
+      "code": 11177
+    },
+    {
+      "name": "Utdanning for barn ",
+      "code": 10659
+    }
+  ],
+  "Klassiske filmer ": [
+    {
+      "name": "Klassiske filmer ",
+      "code": 31574
+    },
+    {
+      "name": "Klassiske dramaer ",
+      "code": 29809
+    },
+    {
+      "name": "Klassisk sci-fi og fantasy ",
+      "code": 47147
+    },
+    {
+      "name": "Klassiske komedier ",
+      "code": 31694
+    },
+    {
+      "name": "Klassiske krigsfilmer ",
+      "code": 48744
+    },
+    {
+      "name": "Klassiske thrillere ",
+      "code": 46588
+    },
+    {
+      "name": "Klassiske Westerns ",
+      "code": 47465
+    },
+    {
+      "name": "Episke filmer ",
+      "code": 52858
+    },
+    {
+      "name": "Film Noir ",
+      "code": 7687
+    },
+    {
+      "name": "Stumfilmer ",
+      "code": 53310
+    }
+  ],
+  "Komedier ": [
+    {
+      "name": "Komedier ",
+      "code": 6548
+    },
+    {
+      "name": "Internasjonale komedier ",
+      "code": 852492
+    },
+    {
+      "name": "Hånte dokumentarer ",
+      "code": 26
+    },
+    {
+      "name": "Mørke komedier ",
+      "code": 869
+    },
+    {
+      "name": "Politiske komedier ",
+      "code": 2700
+    },
+    {
+      "name": "Romantiske komedier ",
+      "code": 5475
+    },
+    {
+      "name": "Satire ",
+      "code": 4922
+    },
+    {
+      "name": "Screwball-komedier ",
+      "code": 9702
+    },
+    {
+      "name": "Slapstick-komedier ",
+      "code": 10256
+    },
+    {
+      "name": "Sportskomedier ",
+      "code": 5286
+    },
+    {
+      "name": "Stand-up komedie ",
+      "code": 11559
+    },
+    {
+      "name": "Tenåringskomedier ",
+      "code": 3519
+    }
+  ],
+  "Kultfilmer ": [
+    {
+      "name": "Kultfilmer ",
+      "code": 7627
+    },
+    {
+      "name": "B skrekk ",
+      "code": 8195
+    },
+    {
+      "name": "Kitsch-filmer ",
+      "code": 1252
+    },
+    {
+      "name": "Kulthevdet sci-fi og fantasy ",
+      "code": 4734
+    },
+    {
+      "name": "Kultkomedier ",
+      "code": 9434
+    },
+    {
+      "name": "Kultskrekk ",
+      "code": 10944
+    }
+  ],
+  "Dokumentarer ": [
+    {
+      "name": "Dokumentarer ",
+      "code": 6839
+    },
+    {
+      "name": "Biografiske dokumentarer ",
+      "code": 3652
+    },
+    {
+      "name": "Krimdokumentarer ",
+      "code": 9875
+    },
+    {
+      "name": "Dokumentarer om vitenskap og natur ",
+      "code": 2595
+    },
+    {
+      "name": "Dokumentarer om reiser og eventyr ",
+      "code": 1159
+    },
+    {
+      "name": "Internasjonale dokumentarer ",
+      "code": 852494
+    },
+    {
+      "name": "Kulturelle og sosiale dokumentarer ",
+      "code": 3675
+    },
+    {
+      "name": "Dokumentarer om sport ",
+      "code": 180
+    },
+    {
+      "name": "Historiske dokumentarer ",
+      "code": 5349
+    },
+    {
+      "name": "Musikk- og konsertdokumentarer ",
+      "code": 90361
+    },
+    {
+      "name": "Politiske dokumentarer ",
+      "code": 7018
+    },
+    {
+      "name": "True crime-dokumentarer ",
+      "code": 81050
+    }
+  ],
+  "Dramafilmer ": [
+    {
+      "name": "Dramafilmer ",
+      "code": 5763
+    },
+    {
+      "name": "Basert på bøker ",
+      "code": 4961
+    },
+    {
+      "name": "Basert på virkelige hendelser ",
+      "code": 3653
+    },
+    {
+      "name": "Dramabiografier ",
+      "code": 3179
+    },
+    {
+      "name": "Dramaet å gråte til ",
+      "code": 6384
+    },
+    {
+      "name": "Showbiz Drama ",
+      "code": 5012
+    },
+    {
+      "name": "Drama for sosiale problemer ",
+      "code": 3947
+    },
+    {
+      "name": "LHBTQ-drama ",
+      "code": 500
+    },
+    {
+      "name": "Historiske dramaer ",
+      "code": 12123
+    },
+    {
+      "name": "Uavhengig drama ",
+      "code": 384
+    },
+    {
+      "name": "Internasjonale dramafilmer ",
+      "code": 852493
+    },
+    {
+      "name": "Klassiske dramafilmer ",
+      "code": 29809
+    },
+    {
+      "name": "Krimdrama ",
+      "code": 6889
+    },
+    {
+      "name": "Militært drama ",
+      "code": 11
+    },
+    {
+      "name": "Politiske dramaer ",
+      "code": 6616
+    },
+    {
+      "name": "Romantiske dramaer ",
+      "code": 1255
+    },
+    {
+      "name": "Rettssaksdramaet ",
+      "code": 528582748
+    },
+    {
+      "name": "Sportsdrama ",
+      "code": 7243
+    },
+    {
+      "name": "Tenåringsdrama ",
+      "code": 9299
+    }
+  ],
+  "Internasjonale filmer ": [
+    {
+      "name": "Internasjonale filmer ",
+      "code": 78367
+    },
+    {
+      "name": "Afrikanske filmer ",
+      "code": 3761
+    },
+    {
+      "name": "Arabiskspråklige filmer ",
+      "code": 61145
+    },
+    {
+      "name": "Arthouse/kunstfilmer ",
+      "code": 29764
+    },
+    {
+      "name": "Australske filmer ",
+      "code": 5230
+    },
+    {
+      "name": "Belgiske filmer ",
+      "code": 262
+    },
+    {
+      "name": "Britiske filmer ",
+      "code": 10757
+    },
+    {
+      "name": "Danske filmer og serier ",
+      "code": 107573
+    },
+    {
+      "name": "Filmer fra Midtøsten ",
+      "code": 5875
+    },
+    {
+      "name": "Filmer fra Sørøst-Asia ",
+      "code": 9196
+    },
+    {
+      "name": "Finske filmer og serier ",
+      "code": 107574
+    },
+    {
+      "name": "Franske filmer ",
+      "code": 58807
+    },
+    {
+      "name": "Greske filmer ",
+      "code": 61115
+    },
+    {
+      "name": "Nederlandske filmer ",
+      "code": 10606
+    },
+    {
+      "name": "Indiske filmer ",
+      "code": 10463
+    },
+    {
+      "name": "Irske filmer ",
+      "code": 58750
+    },
+    {
+      "name": "Italienske filmer ",
+      "code": 8221
+    },
+    {
+      "name": "Japanske filmer ",
+      "code": 10398
+    },
+    {
+      "name": "Kinesiske filmer ",
+      "code": 3960
+    },
+    {
+      "name": "Koreanske filmer ",
+      "code": 5685
+    },
+    {
+      "name": "Latinamerikanske filmer ",
+      "code": 1613
+    },
+    {
+      "name": "Norske filmer og serier ",
+      "code": 107464
+    },
+    {
+      "name": "New Zealand-filmer ",
+      "code": 63782
+    },
+    {
+      "name": "Polske filmer ",
+      "code": 6299
+    },
+    {
+      "name": "Russiske filmer ",
+      "code": 11567
+    },
+    {
+      "name": "Skandinaviske filmer ",
+      "code": 9292
+    },
+    {
+      "name": "Spanske filmer ",
+      "code": 58741
+    },
+    {
+      "name": "Tyske filmer ",
+      "code": 58886
+    },
+    {
+      "name": "Østeuropeiske filmer ",
+      "code": 5254
+    },
+    {
+      "name": "Internasjonale action-/eventyrfilmer ",
+      "code": 11828
+    },
+    {
+      "name": "Internasjonale dokumentarer ",
+      "code": 852494
+    },
+    {
+      "name": "Internasjonale dramafilmer ",
+      "code": 852493
+    },
+    {
+      "name": "Internasjonale filmklassikere ",
+      "code": 1476390
+    },
+    {
+      "name": "Internasjonale LHBTQ-filmer ",
+      "code": 1471454
+    },
+    {
+      "name": "Internasjonale komedier ",
+      "code": 852492
+    },
+    {
+      "name": "Internasjonale romantiske filmer ",
+      "code": 1474327
+    },
+    {
+      "name": "Internasjonale sci-fi/fantasyfilmer ",
+      "code": 852491
+    },
+    {
+      "name": "Internasjonale skrekkfilmer ",
+      "code": 1475312
+    },
+    {
+      "name": "Internasjonale thrillere ",
+      "code": 852488
+    }
+  ],
+  "Skrekkfilmer ": [
+    {
+      "name": "Skrekkfilmer ",
+      "code": 8711
+    },
+    {
+      "name": "B skrekk ",
+      "code": 8195
+    },
+    {
+      "name": "Internasjonale skrekkfilmer ",
+      "code": 1475312
+    },
+    {
+      "name": "Kultskrekkfilmer ",
+      "code": 10944
+    },
+    {
+      "name": "Monsterfilmer ",
+      "code": 947
+    },
+    {
+      "name": "Sataniske historier ",
+      "code": 6998
+    },
+    {
+      "name": "Skrekkkomedier ",
+      "code": 89585
+    },
+    {
+      "name": "Slashers og seriemorderfilmer ",
+      "code": 8646
+    },
+    {
+      "name": "Teenage Horror ",
+      "code": 52147
+    },
+    {
+      "name": "Vampyrer ",
+      "code": 75804
+    },
+    {
+      "name": "Varulver ",
+      "code": 75930
+    },
+    {
+      "name": "Zombier ",
+      "code": 75405
+    },
+    {
+      "name": "Overnaturlig skrekk ",
+      "code": 42023
+    }
+  ],
+  "Independent film ": [
+    {
+      "name": "Independent film ",
+      "code": 7077
+    },
+    {
+      "name": "Independent action/eventyr ",
+      "code": 11804
+    },
+    {
+      "name": "Independent drama ",
+      "code": 384
+    },
+    {
+      "name": "Independent komedier ",
+      "code": 4195
+    },
+    {
+      "name": "Independent thrillere ",
+      "code": 3269
+    },
+    {
+      "name": "Romantiske independentfilmer ",
+      "code": 9916
+    }
+  ],
+  "Romantiske filmer ": [
+    {
+      "name": "Romantiske filmer ",
+      "code": 8883
+    },
+    {
+      "name": "Forskjellige romanser ",
+      "code": 36103
+    },
+    {
+      "name": "Erotiske filmer ",
+      "code": 11781
+    },
+    {
+      "name": "Hot romantiske filmer ",
+      "code": 35800
+    },
+    {
+      "name": "Klassiske romantiske filmer ",
+      "code": 31273
+    },
+    {
+      "name": "Romantiske dramaer ",
+      "code": 1255
+    },
+    {
+      "name": "Romantiske favoritter ",
+      "code": 502675
+    },
+    {
+      "name": "Romantiske uavhengige filmer ",
+      "code": 9916
+    },
+    {
+      "name": "Romantiske komedier ",
+      "code": 5475
+    }
+  ],
+  "Science fiction og fantasy ": [
+    {
+      "name": "Science fiction og fantasy ",
+      "code": 1492
+    },
+    {
+      "name": "Actionfylt sci-fi og fantasy ",
+      "code": 1568
+    },
+    {
+      "name": "Fantasyfilmer ",
+      "code": 9744
+    },
+    {
+      "name": "Internasjonale Sci-Fi- og fantasyfilmer ",
+      "code": 852491
+    },
+    {
+      "name": "Klassisk sci-fi og fantasy ",
+      "code": 47147
+    },
+    {
+      "name": "Kulthevdet sci-fi og fantasy ",
+      "code": 4734
+    },
+    {
+      "name": "Sci-Fi-drama ",
+      "code": 3916
+    },
+    {
+      "name": "Sci-Fi-skrekk ",
+      "code": 1694
+    },
+    {
+      "name": "Sci-fi-thrillere ",
+      "code": 11014
+    },
+    {
+      "name": "Sci-Fi-eventyr ",
+      "code": 6926
+    },
+    {
+      "name": "Aliens ",
+      "code": 3327
+    }
+  ],
+  "Sportsfilmer ": [
+    {
+      "name": "Sportsfilmer ",
+      "code": 4370
+    },
+    {
+      "name": "Baseballfilmer ",
+      "code": 12339
+    },
+    {
+      "name": "Basketballfilmer ",
+      "code": 12762
+    },
+    {
+      "name": "Boksefilmer ",
+      "code": 12443
+    },
+    {
+      "name": "Fotballfilmer ",
+      "code": 12803
+    },
+    {
+      "name": "Fotballfilmer ",
+      "code": 12549
+    },
+    {
+      "name": "Kampsport, boksing og bryting ",
+      "code": 6695
+    },
+    {
+      "name": "Sport og trening ",
+      "code": 9327
+    },
+    {
+      "name": "Sportsdokumentarer ",
+      "code": 180
+    },
+    {
+      "name": "Sportsdrama ",
+      "code": 7243
+    },
+    {
+      "name": "Sportskomedier ",
+      "code": 5286
+    }
+  ],
+  "Thrillere ": [
+    {
+      "name": "Thrillere ",
+      "code": 8933
+    },
+    {
+      "name": "Actionthrillere ",
+      "code": 43048
+    },
+    {
+      "name": "Krimthrillere ",
+      "code": 10499
+    },
+    {
+      "name": "Gangsterfilmer ",
+      "code": 31851
+    },
+    {
+      "name": "Hot Thrillers ",
+      "code": 972
+    },
+    {
+      "name": "Uavhengige thrillere ",
+      "code": 3269
+    },
+    {
+      "name": "Internasjonale thrillere ",
+      "code": 852488
+    },
+    {
+      "name": "Klassiske thrillere ",
+      "code": 46588
+    },
+    {
+      "name": "Mysteries ",
+      "code": 9994
+    },
+    {
+      "name": "Politiske thrillere ",
+      "code": 10504
+    },
+    {
+      "name": "Psykologiske thrillere ",
+      "code": 5505
+    },
+    {
+      "name": "Sci-fi-thrillere ",
+      "code": 11014
+    },
+    {
+      "name": "Spionthrillere ",
+      "code": 9147
+    },
+    {
+      "name": "Overnaturlige thrillere ",
+      "code": 11140
+    }
+  ],
+  "TV-serier ": [
+    {
+      "name": "TV-serier ",
+      "code": 83
+    },
+    {
+      "name": "Action og eventyr ",
+      "code": 10673
+    },
+    {
+      "name": "Barneprogrammer ",
+      "code": 27346
+    },
+    {
+      "name": "Britiske tegneserier ",
+      "code": 52117
+    },
+    {
+      "name": "Forbrytelse ",
+      "code": 26146
+    },
+    {
+      "name": "Dokumentarserie ",
+      "code": 10105
+    },
+    {
+      "name": "Dramaserie ",
+      "code": 11714
+    },
+    {
+      "name": "Klassisk serie ",
+      "code": 46553
+    },
+    {
+      "name": "Komedieserie ",
+      "code": 10375
+    },
+    {
+      "name": "Koreansk serie ",
+      "code": 67879
+    },
+    {
+      "name": "Kultserie ",
+      "code": 74652
+    },
+    {
+      "name": "Mat- og reiseprogrammer ",
+      "code": 72436
+    },
+    {
+      "name": "Militærserie ",
+      "code": 25804
+    },
+    {
+      "name": "Miniserie ",
+      "code": 4814
+    },
+    {
+      "name": "Mysteries ",
+      "code": 4366
+    },
+    {
+      "name": "Reality-serien ",
+      "code": 9833
+    },
+    {
+      "name": "Sci-fi og fantasy-serier ",
+      "code": 1372
+    },
+    {
+      "name": "Skrekkserie ",
+      "code": 83059
+    },
+    {
+      "name": "Tenåringsserie ",
+      "code": 60951
+    },
+    {
+      "name": "Vitenskap og natur ",
+      "code": 52780
+    }
+  ]
+}
